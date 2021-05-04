@@ -1,10 +1,10 @@
 # c-language-parsing
 
 
-*for running first step
- *lex project1.l
- *cc lex.yy.cc
- */a.out
+* for running first step
+ * lex project1.l
+ * cc lex.yy.cc
+ * /a.out
 
 
 *for running second and third step
