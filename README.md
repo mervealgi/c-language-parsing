@@ -2,9 +2,9 @@
 
 
 * for running first step
- * lex project1.l
- * cc lex.yy.cc
- * /a.out
+  * lex project1.l
+  * cc lex.yy.cc
+  * /a.out
 
 
 *for running second and third step
